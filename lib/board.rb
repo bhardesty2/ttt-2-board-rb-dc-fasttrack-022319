@@ -1,1 +1,1 @@
-# Define the variable board below.
+def board # Define the variable board below.
